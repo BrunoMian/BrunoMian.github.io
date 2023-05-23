@@ -2,4 +2,5 @@ title:Bruno Mian Silva
 #logo:/assests/img/headshot_circle.png
 #description:
 show_downloadas: true
-theme: -jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
