@@ -3,9 +3,9 @@
 #### Habilidades: Python, Qgis, Arcgis
 
 ## Formação
-- Graduando, IFES, Serra, Estudante de Sistemas da Informação (Maio,2025).
-- Técnico, IFES, Vitória, Formado na área técnico de metalurgia(Junho,2020).
-- Graduado, UFES, Vitória, Formado na área de geologia(Junho,2018).
+- Graduando, IFES, Serra | Estudante de Sistemas da Informação (Maio,2025).
+- Técnico, IFES, Vitória | Formado na área técnico de metalurgia (Junho,2020).
+- Graduado, UFES, Vitória | Formado na área de geologia (Junho,2018).
 
 ## Experiência
 **Pesquisador, FACTO/SPU Produção Técnico Cientifica em Geoinformação na SPU, Vitória**
