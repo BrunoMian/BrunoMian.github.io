@@ -1,6 +1,7 @@
+# BrunoMian.github.io
 # Data Scientist
 
-###Education
+### Education
 oi
 
 ### work experin
