@@ -9,9 +9,9 @@
 
 ### Experiência
 **Pesquisador, FACTO/SPU Produção Técnico Cientifica em Geoinformação na SPU, Vitória**
-○ Levantamento e gerenciamento cartográfico;
-○ Geocodificação de imóveis pertences a terreno de marinha, utilizando Qgis;
-○ Desenvolvimento de Plugins para automatização de processos;
+- Levantamento e gerenciamento cartográfico;
+- Geocodificação de imóveis pertences a terreno de marinha, utilizando Qgis;
+- Desenvolvimento de Plugins para automatização de processos;
 
 **Tec.Laboratório, FACTO/VALE Utilização de Co-Produtos de rejeito de lastro e minério para revestimento primário , Vitória**
 - Homogeneização de material;
